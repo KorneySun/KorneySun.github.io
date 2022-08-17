@@ -16,7 +16,7 @@
     /*}*/
     #header{
         position: relative;
-        background-color: rgba(235, 181, 144, 0);
+        background-color: rgba(235, 181, 144, 0.6);
     }
     .header-phone{
         position: relative;
