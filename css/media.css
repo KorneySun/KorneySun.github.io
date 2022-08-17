@@ -44,7 +44,7 @@
     }
 
     #content{
-        margin:40px auto 40px;
+        margin:40px auto 0px;
     }
     .content-variant-text{
         width:80%;
@@ -67,7 +67,9 @@
         margin-top: 5px;
         margin-bottom: 10px;
     }
-
+    .footer-firm {
+        margin-top: 15px;
+    }
 
 
 }
