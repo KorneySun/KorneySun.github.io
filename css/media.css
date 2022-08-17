@@ -1,4 +1,9 @@
 @media all and (max-width: 800px){
+
+    @font-face{
+        font-family:'Oswald';
+        src:url('../fonts/oswald/Oswald-Regular.ttf');
+    }
     .wrapperrr {
         overflow-x: hidden !important
     }
@@ -10,6 +15,7 @@
     /*    !*padding:10px auto 10px;*!*/
     /*}*/
     #header{
+        position: relative;
         background-color: rgba(235, 181, 144, 0);
     }
     .header-phone{
