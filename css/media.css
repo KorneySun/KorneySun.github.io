@@ -7,13 +7,6 @@
     .wrapperrr {
         overflow-x: hidden !important
     }
-
-    /*.header-main {*/
-    /*    flex-direction:column;*/
-    /*    !*align-items:center;*!*/
-    /*    justify-content:space-around;*/
-    /*    !*padding:10px auto 10px;*!*/
-    /*}*/
     #header{
         position: relative;
         background-color: rgba(235, 181, 144, 0);
@@ -31,8 +24,12 @@
         animation: rotate 60s linear;
         animation-iteration-count: infinite;
     }
-    .header-main-icon span{
-        margin-left:20px;
+    .header-main-icon-ua {
+        margin-top:1px;
+        margin-left:25px;
+    }
+    .header-main-icon-ua span{
+        margin-left:10px;
         font-size: 2.3rem;
         vertical-align: baseline;
     }
@@ -42,7 +39,27 @@
         /*margin-top:-10px;*/
         padding-bottom:5px;
     }
-
+    #UKR_1{
+        top: -5px;
+        right: 5%;
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+    #RUS_1{
+        top: -5px;
+        right:15%;
+        font-size: 1.2rem;
+    }
+    #UKR_2{
+        top: -5px;
+        right: 5%;
+        font-size: 1.2rem;
+    }
+    #RUS_2{
+        top: -5px;
+        right:15%;
+        font-size: 1.2rem;
+    }
     #content{
         margin:40px auto 0px;
     }

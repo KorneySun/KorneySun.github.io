@@ -51,7 +51,6 @@ Korneyenko Dmitriy
     height: 100%;
     margin:auto;
     right:8px;
-
 }
 .header-main {
     font-family: "Oswald", serif;
@@ -70,9 +69,42 @@ Korneyenko Dmitriy
     animation-iteration-count: infinite;
     font-size:3.0rem;
 }
-.header-main-icon span{
-    /*color:red;*/
+.header-main-icon-ua {
+    margin-top:25px;
+    margin-left:10px;
+    animation: rotate 60s linear;
+    animation-iteration-count: infinite;
+    font-size:3.0rem;
+}
+.header-main-icon-ua span{
     vertical-align:top;
+    font-size:2.7rem;
+}
+
+#UKR_1{
+    cursor:pointer;
+    position: absolute;
+    top: 5px;
+    right: 5%;
+    font-weight: bold;
+}
+#RUS_1{
+    cursor:pointer;
+    position: absolute;
+    top: 5px;
+    right:15%;
+}
+#UKR_2{
+    cursor:pointer;
+    position: absolute;
+    top: 5px;
+    right: 5%;
+}
+#RUS_2{
+    cursor:pointer;
+    position: absolute;
+    top: 5px;
+    right:15%;
 }
 #content{
     position: relative;
@@ -278,4 +310,3 @@ Korneyenko Dmitriy
 .footer-social {
     margin-top: 60px;
 }
-
