@@ -64,21 +64,22 @@ Korneyenko Dmitriy
 }
 .header-main-icon {
     margin-top:25px;
-    margin-left:10px;
-    animation: rotate 60s linear;
-    animation-iteration-count: infinite;
-    font-size:3.0rem;
+    margin-left:20px;
+    /*font-size:2.9rem;*/
+}
+.header-main-icon span {
+    margin-left:25px;
+    vertical-align:top;
+    font-size:2.9rem;
 }
 .header-main-icon-ua {
     margin-top:25px;
-    margin-left:10px;
-    animation: rotate 60s linear;
-    animation-iteration-count: infinite;
-    font-size:3.0rem;
+    margin-left:20px;
 }
 .header-main-icon-ua span{
     vertical-align:top;
     font-size:2.7rem;
+    margin-left:20px;
 }
 
 #UKR_1{

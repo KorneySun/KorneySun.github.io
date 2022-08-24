@@ -19,19 +19,23 @@
         background-color: rgba(235, 181, 144, 0.71);
     }
     .header-main-icon {
-        margin-top:1px;
-        margin-left:35px;
-        animation: rotate 60s linear;
-        animation-iteration-count: infinite;
+        margin-top:10px;
+        margin-left:20px;
+    }
+    .header-main-icon span {
+        margin-left:0px;
     }
     .header-main-icon-ua {
-        margin-top:1px;
-        margin-left:25px;
+        /*margin-top:10px;*/
+        /*margin-left:10px;*/
+        margin:13px 0px 0px 15px;
     }
     .header-main-icon-ua span{
-        /*margin-left:10px;*/
-        font-size: 1.5rem;
+        /*margin-left:5px;*/
+        /*margin:auto;*/
+        font-size: 1.7rem;
         vertical-align: baseline;
+        margin-left:0px;
     }
     .header-main-tel {
         font-size:0.9rem;
@@ -40,22 +44,26 @@
         padding-bottom:5px;
     }
     #UKR_1{
+        position: absolute;
         top: -5px;
         right: 5%;
         font-weight: bold;
         font-size: 1.2rem;
     }
     #RUS_1{
+        position: absolute;
         top: -5px;
         right:15%;
         font-size: 1.2rem;
     }
     #UKR_2{
+        position: absolute;
         top: -5px;
         right: 5%;
         font-size: 1.2rem;
     }
     #RUS_2{
+        position: absolute;
         top: -5px;
         right:15%;
         font-size: 1.2rem;
