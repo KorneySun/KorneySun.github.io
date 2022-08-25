@@ -7,7 +7,7 @@
     .wrapperrr {
         overflow-x: hidden !important
     }
-    #header{
+    #header_ua, #header_ru{
         position: relative;
         background-color: rgba(235, 181, 144, 0);
     }
@@ -62,7 +62,7 @@
         right:15%;
         font-size: 1.2rem;
     }
-    #content{
+    #content_ua, #content_ru{
         margin:40px auto 0px;
     }
     .content-variant-text{
@@ -75,7 +75,7 @@
     .content-uslugi-title{
         margin-top:0px;
     }
-    #footer {
+    #footer_ua, #footer_ru {
         background-color: rgba(95, 95, 95, 0);
     }
     .footer-container {
