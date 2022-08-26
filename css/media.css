@@ -66,12 +66,13 @@
         margin:40px auto 0px;
     }
     .content-variant-text{
-        /*width:80%;*/
+        width:80%;
         margin:20px auto 20px;
+        font-size: 30px;
     }
     .content-variant-text p{
         height:100%;
-        font-size: 16px;
+        font-size: 30px;
     }
     .content-uslugi-title{
         margin-top:0px;
